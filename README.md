@@ -1,1 +1,1 @@
-# primary-school-math.io
+# primary-school-math
