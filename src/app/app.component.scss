@@ -1,0 +1,54 @@
+
+.wrapper {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.range-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.equation {
+  display: flex;
+}
+
+.equation-result {
+  margin-left: 4px;
+}
+
+.range-button-wrapper {
+  margin: 8px 0;
+}
+
+.range-button {
+  width: 132px;
+  height: 32px;
+}
+
+.range-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
+  input {
+    width: 128px;
+  }
+}
+
+.range-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.correct-answers-count {
+  font-weight: bold;
+  color: #327c3f;
+}
+
+.error {
+  font-weight: bold;
+  color: #ac2828;
+}
